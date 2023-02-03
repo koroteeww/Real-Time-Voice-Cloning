@@ -8,7 +8,6 @@
 *.idea
 *.ipynb_checkpoints
 *.pickle
-*.npy
 *.blg
 *.bbl
 *.bcf
