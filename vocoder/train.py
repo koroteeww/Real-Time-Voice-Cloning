@@ -103,10 +103,12 @@ def train(run_id: str, syn_dir: Path, voc_dir: Path, models_dir: Path, ground_tr
 
             if backup_every != 0 and step % backup_every == 0 :
                 model.checkpoint(model_dir, optimizer)
-
+                print("backup OK")
+            
             if save_every != 0 and step % save_every == 0 :
                 model.save(weights_fpath, optimizer)
-
+                print("save OK")
+                
             msg = f"| Epoch: {epoch} ({i}/{len(data_loader)}) | " \
                 f"Loss: {avg_loss:.4f} | {speed:.1f} " \
                 f"steps/s | Step: {k}k | "
@@ -115,4 +117,4 @@ def train(run_id: str, syn_dir: Path, voc_dir: Path, models_dir: Path, ground_tr
 
         gen_testset(model, test_loader, hp.voc_gen_at_checkpoint, hp.voc_gen_batched,
                     hp.voc_target, hp.voc_overlap, model_dir)
-        print("")
+        print("gen_testset OK")

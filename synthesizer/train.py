@@ -195,12 +195,14 @@ def train(run_id: str, syn_dir: Path, models_dir: Path, save_every: int,  backup
                 if backup_every != 0 and step % backup_every == 0 :
                     backup_fpath = weights_fpath.parent / f"synthesizer_{k:06d}.pt"
                     model.save(backup_fpath, optimizer)
-
+                    print("backup OK")
+                    
                 if save_every != 0 and step % save_every == 0 :
                     # Must save latest optimizer state to ensure that resuming training
                     # doesn't produce artifacts
                     model.save(weights_fpath, optimizer)
-
+                    print("save OK")
+                    
                 # Evaluate model to generate samples
                 epoch_eval = hparams.tts_eval_interval == -1 and i == steps_per_epoch  # If epoch is done
                 step_eval = hparams.tts_eval_interval > 0 and step % hparams.tts_eval_interval == 0  # Every N steps
