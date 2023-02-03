@@ -1,0 +1,19 @@
+audio-utterance12.npy|mel-utterance12.npy|embed-utterance12.npy|48000|241|минимальные понятные схемы коммуникации
+audio-utterance08.npy|mel-utterance08.npy|embed-utterance08.npy|124320|622|а вот общения вертикального его не существовало и быть не могло потому что крестьяне не общались с дворянами
+audio-utterance02.npy|mel-utterance02.npy|embed-utterance02.npy|78240|392|и оно имело слои и видите вот посмотрите на эти слои
+audio-utterance17.npy|mel-utterance17.npy|embed-utterance17.npy|83520|418|вот это это общество а вот это это революция
+audio-utterance04.npy|mel-utterance04.npy|embed-utterance04.npy|120000|601|жирный крест где вертикально крестьяне между крестьянами мещане между мещанами
+audio-utterance10.npy|mel-utterance10.npy|embed-utterance10.npy|56160|281|и так было столетиями в нашей культуре
+audio-utterance07.npy|mel-utterance07.npy|embed-utterance07.npy|83040|416|и это то в чем мы с вами жили это горизонтальное общение когда ты общаешься с равным
+audio-utterance13.npy|mel-utterance13.npy|embed-utterance13.npy|92160|461|и закрепилось впервые в документе а не в истории появилось слово враг и чужой
+audio-utterance18.npy|mel-utterance18.npy|embed-utterance18.npy|82080|411|вот с этой кровоточащей раной которая есть на нашем теле мы с вами живем до сих пор
+audio-utterance14.npy|mel-utterance14.npy|embed-utterance14.npy|115200|577|в большой яме это собственно Сталин это война и это когда люди доносили на других людей
+audio-utterance11.npy|mel-utterance11.npy|embed-utterance11.npy|144480|723|если мы будем говорить то одна из первичных ран которая осталась на нашем теле на нашем и так уже кресту это тысяча восемьсот пятидесятый год
+audio-utterance05.npy|mel-utterance05.npy|embed-utterance05.npy|91680|459|не нужно искать слов не надо искать подхода когда ты общаешься с равным
+audio-utterance16.npy|mel-utterance16.npy|embed-utterance16.npy|153120|766|мы потомки людей которые общались с другими людьми как с равными а с равными слог выбирать не нужно я могу общаться с тобой так как я этого захочу
+audio-utterance06.npy|mel-utterance06.npy|embed-utterance06.npy|120480|603|и когда мы с вами живем в условиях пирога и общаемся только между своим слоем искать подхода не нужно
+audio-utterance19.npy|mel-utterance19.npy|embed-utterance19.npy|83040|416|следующая тема это тема дети соавтор моей книги татьяна шахматова у нее нет детей
+audio-utterance01.npy|mel-utterance01.npy|embed-utterance01.npy|40800|205|также и общество в россии никак между собой
+audio-utterance15.npy|mel-utterance15.npy|embed-utterance15.npy|92640|464|подойти страшно сказать невозможно кто мне равен неизвестно
+audio-utterance03.npy|mel-utterance03.npy|embed-utterance03.npy|79680|399|эти слои между собой никак не пересекаются
+audio-utterance09.npy|mel-utterance09.npy|embed-utterance09.npy|84480|423|кошечки любили кошечек собачки делали собак только собачками
